@@ -1,2 +1,2 @@
-# ionic
-CPE-4 Ionic project
+# Restful
+CPE-4 Restful
